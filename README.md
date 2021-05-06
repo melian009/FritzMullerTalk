@@ -8,4 +8,4 @@ jupyter nbconvert saopaulo.ipynb --to slides --post serve
 
 
 ## open html 
-http://127.0.0.1:8000/saopaulo.slides.html#/
+http://127.0.0.1:8000/saopaulo.slides.html
